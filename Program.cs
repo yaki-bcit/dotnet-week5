@@ -30,7 +30,7 @@ else
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-app.UseMvc();
+//app.UseMvc();
 
 app.UseRouting();
 

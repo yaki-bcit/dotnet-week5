@@ -6,6 +6,7 @@ namespace Week_5.Models
     {
         [Key, Required]
         public string ProvinceCode { get; set; }
+        [Display(Name ="Province Name")]
         public string ProvinceName { get; set; }
         public ICollection<City> Cities { get; set; }
     }
