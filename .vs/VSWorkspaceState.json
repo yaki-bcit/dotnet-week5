@@ -10,6 +10,6 @@
     "\\Views\\Home",
     "\\Views\\Provinces"
   ],
-  "SelectedNode": "\\Data\\Migrations\\20221004064742_InitialCreate.cs",
+  "SelectedNode": "\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
