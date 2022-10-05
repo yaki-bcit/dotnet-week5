@@ -11,7 +11,7 @@ using Week_5.Models;
 
 namespace Week_5.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class CitiesController : Controller
     {
         private readonly ApplicationDbContext _context;

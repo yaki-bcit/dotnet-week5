@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Data\\Migrations",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Cities",
+    "\\Views\\Home",
+    "\\Views\\Provinces"
+  ],
+  "SelectedNode": "\\Data\\Migrations\\20221004064742_InitialCreate.cs",
+  "PreviewInSolutionExplorer": false
+}
